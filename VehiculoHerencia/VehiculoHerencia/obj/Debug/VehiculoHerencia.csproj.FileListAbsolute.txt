@@ -1,0 +1,7 @@
+C:\Users\KAYLEN\Documents\SharpDevelop Projects\VehiculoHerencia\VehiculoHerencia\bin\Debug\VehiculoHerencia.exe
+C:\Users\KAYLEN\Documents\SharpDevelop Projects\VehiculoHerencia\VehiculoHerencia\bin\Debug\VehiculoHerencia.pdb
+C:\Users\KAYLEN\Documents\SharpDevelop Projects\VehiculoHerencia\VehiculoHerencia\obj\Debug\VehiculoHerencia.csprojResolveAssemblyReference.cache
+C:\Users\KAYLEN\Documents\SharpDevelop Projects\VehiculoHerencia\VehiculoHerencia\obj\Debug\VehiculoHerencia.MainForm.resources
+C:\Users\KAYLEN\Documents\SharpDevelop Projects\VehiculoHerencia\VehiculoHerencia\obj\Debug\VehiculoHerencia.csproj.GenerateResource.Cache
+C:\Users\KAYLEN\Documents\SharpDevelop Projects\VehiculoHerencia\VehiculoHerencia\obj\Debug\VehiculoHerencia.exe
+C:\Users\KAYLEN\Documents\SharpDevelop Projects\VehiculoHerencia\VehiculoHerencia\obj\Debug\VehiculoHerencia.pdb
