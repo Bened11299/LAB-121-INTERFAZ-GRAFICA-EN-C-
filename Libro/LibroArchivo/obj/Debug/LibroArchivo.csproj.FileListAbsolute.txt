@@ -1,0 +1,5 @@
+C:\Users\KAYLEN\Documents\SharpDevelop Projects\Libro\LibroArchivo\bin\Debug\LibroArchivo.exe
+C:\Users\KAYLEN\Documents\SharpDevelop Projects\Libro\LibroArchivo\bin\Debug\LibroArchivo.pdb
+C:\Users\KAYLEN\Documents\SharpDevelop Projects\Libro\LibroArchivo\obj\Debug\LibroArchivo.csprojResolveAssemblyReference.cache
+C:\Users\KAYLEN\Documents\SharpDevelop Projects\Libro\LibroArchivo\obj\Debug\LibroArchivo.exe
+C:\Users\KAYLEN\Documents\SharpDevelop Projects\Libro\LibroArchivo\obj\Debug\LibroArchivo.pdb

@@ -1,0 +1,9 @@
+C:\Users\KAYLEN\Documents\SharpDevelop Projects\Libro\Libro\obj\Debug\Libro.csprojResolveAssemblyReference.cache
+C:\Users\KAYLEN\Documents\SharpDevelop Projects\Libro\Libro\obj\Debug\Libro.MainForm.resources
+C:\Users\KAYLEN\Documents\SharpDevelop Projects\Libro\Libro\obj\Debug\Libro.csproj.GenerateResource.Cache
+C:\Users\KAYLEN\Documents\SharpDevelop Projects\Libro\Libro\bin\Debug\Libro.exe
+C:\Users\KAYLEN\Documents\SharpDevelop Projects\Libro\Libro\bin\Debug\Libro.pdb
+C:\Users\KAYLEN\Documents\SharpDevelop Projects\Libro\Libro\obj\Debug\Libro.exe
+C:\Users\KAYLEN\Documents\SharpDevelop Projects\Libro\Libro\obj\Debug\Libro.pdb
+C:\Users\KAYLEN\Documents\SharpDevelop Projects\Libro\Libro\obj\Debug\Libro.HojasForm.resources
+C:\Users\KAYLEN\Documents\SharpDevelop Projects\Libro\Libro\obj\Debug\Libro.MostrarLibro.resources
