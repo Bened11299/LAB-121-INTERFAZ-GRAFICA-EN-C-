@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.4
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Libro", "Libro\Libro.csproj", "{82C971E5-D5E9-4373-9F2F-DDB982C5DF5C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibroArchivo", "LibroArchivo\LibroArchivo.csproj", "{0983BBDA-5466-4DAA-94B9-97A8B4D5C6BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{82C971E5-D5E9-4373-9F2F-DDB982C5DF5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82C971E5-D5E9-4373-9F2F-DDB982C5DF5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82C971E5-D5E9-4373-9F2F-DDB982C5DF5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82C971E5-D5E9-4373-9F2F-DDB982C5DF5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0983BBDA-5466-4DAA-94B9-97A8B4D5C6BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0983BBDA-5466-4DAA-94B9-97A8B4D5C6BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0983BBDA-5466-4DAA-94B9-97A8B4D5C6BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0983BBDA-5466-4DAA-94B9-97A8B4D5C6BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+EndGlobal
